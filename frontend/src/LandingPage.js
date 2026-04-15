@@ -553,9 +553,8 @@ export default function LandingPage({ onEnter }) {
           <span className="lh-brand">FlowAI</span>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-          <div className="lh-badge">SIH 2024</div>
           <div className="lh-badge" style={{ borderColor: 'rgba(0,229,255,0.3)', color: '#00e5ff', background: 'rgba(0,229,255,0.06)' }}>
-            
+
           </div>
         </div>
       </header>
