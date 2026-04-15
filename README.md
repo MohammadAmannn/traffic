@@ -32,7 +32,7 @@ The Smart Adaptive Traffic Management System leverages AI and computer vision to
 Clone the repository:
 
 ```bash
-
+https://github.com/MohammadAmannn/traffic.git
 ```
 
 Start the backend server:
